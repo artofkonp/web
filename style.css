@@ -1,0 +1,15 @@
+﻿@font-face {
+	font-family:"Perfect DOS VGA 437 Win";
+	src: url(DOS.ttf);
+}
+.header {
+	width: 90%;
+	color: #66FF99;
+	position: relative;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #003366;
+	height: 96px;
+	text-align: center;
+}
