@@ -3,13 +3,95 @@
 	src: url(DOS.ttf);
 }
 .header {
+	margin: 42px auto 0px auto;
 	width: 90%;
 	color: #66FF99;
-	position: relative;
-	margin-top: 20px;
+	background-color: #003366;
+	text-align: center;
+	overflow: hidden;
+}
+.footer {
+	padding: 5px 0px 10px 0px;
+	height: 64px;
+	width: 90%;
+	background-color: #003366;
+	margin-top: 5px;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #003366;
-	height: 96px;
+	overflow: auto;
+}
+.navbtns {
 	text-align: center;
+	background-color: #003366;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #00FF00;
+	text-decoration: none;
+	cursor: pointer;
+}
+.navbar {
+	margin: 1px auto 1px auto;
+	width: 90%;
+	background-color: #003366;
+	text-align: center;
+	overflow: hidden;
+}
+.pgbody {
+	border: 2px solid #333333;
+	margin: 0% auto 0% auto;
+	width: 90%;
+	background-color: #C0C0C0;
+}
+.footertxt {
+	text-align: center;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #9900CC;
+}
+.navbtsel {
+	text-align: center;
+	background-color: #003366;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #FFFF00;
+	text-decoration: none;
+	cursor: pointer;
+	overflow: hidden;
+}
+.navbtnsOFF {
+	text-align: center;
+	background-color: #003366;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #999999;
+	text-decoration: none;
+	cursor: pointer;
+	overflow: hidden;
+}
+.navbar1 {
+	border: 2px solid #808080;
+	width: 100%;
+	text-align: center;
+}
+.newsdate {
+	text-align: center;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #FF66FF;
+	background-color: #003366;
+}
+.grinblu {
+	text-align: center;
+	background-color: #003366;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #00FF00;
+	text-decoration: none;
+}
+
+.style10 {
+	text-align: center;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #FFFF00;
+	background-color: #003366;
+}
+.style5 {
+	text-align: center;
+	font-family: "Perfect DOS VGA 437 Win";
+	color: #FF0000;
+	background-color: #003366;
 }
