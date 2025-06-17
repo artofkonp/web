@@ -40,6 +40,7 @@
 	margin: 0% auto 0% auto;
 	width: 90%;
 	background-color: #C0C0C0;
+	overflow: hidden;
 }
 .footertxt {
 	text-align: center;
